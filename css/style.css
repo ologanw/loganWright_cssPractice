@@ -1,0 +1,27 @@
+body {
+  background-color: #1695A3;  
+  color: #FFFFFF
+
+}
+
+p {
+  color: #EB7F00;
+  font-size: 40px;
+  font-weight: bold;
+  color: #EB7F00;
+  color: orange;
+  font-size:large;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+h3 {
+  text-align: center;
+  color: white
+  
+}
+
+a {
+  text-decoration: none;
+}
+
